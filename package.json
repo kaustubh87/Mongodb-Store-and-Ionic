@@ -1,0 +1,28 @@
+{
+  "name": "ecommerce-store",
+  "version": "1.0.0",
+  "description": "An Ecommerce Web Application using mongodb, node and Ionic",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaustubh87/Mongodb-Store-and-Ionic.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "mongo",
+    "Ionic"
+  ],
+  "dependencies": {
+    "mocha": "2.2.4",
+    "mongoose": "^4.11.5"
+  },
+  "author": "Kaustubh Vinzanekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaustubh87/Mongodb-Store-and-Ionic/issues"
+  },
+  "homepage": "https://github.com/kaustubh87/Mongodb-Store-and-Ionic#readme"
+}
